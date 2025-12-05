@@ -3,6 +3,7 @@
 *.fig
 *.xd
 /assets
+/src/assets
 
 # Dependencies
 /node_modules
